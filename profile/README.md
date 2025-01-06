@@ -23,49 +23,49 @@ the prior week. A submission will have a deadline of a day before class. Student
 work they do as they follow the Rust Book and Philipp Oppermann's blog series. There will be other
 types of submissions, but this is TBD.
 
-The following is a tentative schedule. It is likely that this will change as the semester
+The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
 
-| Date | Week | Lecture # | Lecture                                      |
-|------|------|-----------|----------------------------------------------|
-| 1/7  | 1    | 1         | Intro & [The Rust Book (TRB)](https://doc.rust-lang.org/book/title-page.html) Ch. 1 |
-| 1/10 |      | 2         | TRB: Ch. 2-6                                 |
-| 1/14 | 2    | 3         | TRB: Ch. 7-9 & Quiz                          |
-| 1/17 |      | 4         | TRB: Ch. 10-14                               |
-| 1/21 | 3    | 5         | TRB: Ch. 15-17 & Quiz                        |
-| 1/24 |      | 6         | TRB: Ch. 18-20                               |
-| 1/28 | 4    | 7         | [Blog OS (BOS)](https://os.phil-opp.com/): A Freestanding Rust Binary & Quiz |
-| 1/31 |      | 8         | BOS: A Minimal Rust Kernel                   |
-| 2/4  | 5    | 9         | BOS: VGA Text Mode & Quiz                    |
-| 2/7  |      | 10        | BOS: Testing                                 |
-| 2/11 | 6    | 11        | BOS: CPU Exceptions & Quiz                   |
-| 2/14 |      | 12        | BOS: Double Faults                           |
-| 2/18 |      |           | Reading break                                |
-| 2/21 |      |           | Reading break                                |
-| 2/25 | 7    | 13        | BOS: Hardware Interrupts & Quiz              |
-| 2/28 |      | 14        | BOS: Introduction to Paging                  |
-| 3/4  | 8    | 15        | BOS: Paging Implementation & Quiz            |
-| 3/7  |      | 16        | BOS: Heap Allocation                         |
-| 3/11 | 9    | 17        | BOS: Allocator Designs & Quiz                |
-| 3/14 |      | 18        | BOS: Async/Await                             |
-| 3/18 | 10   | 19        | TBD & Quiz                                   |
-| 3/21 |      | 20        | TBD                                          |
-| 3/25 | 11   | 21        | TBD & Quiz                                   |
-| 3/28 |      | 22        | TBD                                          |
-| 4/1  | 12   | 23        | TBD & Quiz                                   |
-| 4/4  |      | 24        | TBD                                          |
-| 4/8  | 13   | 25        | Quiz & Review                                |
+| Date | Week | Lecture # | Lecture                                                 | Quiz |
+|------|------|-----------|---------------------------------------------------------|------|
+| 1/7  | 1    | 1         | Intro & TRB Ch. 1                                       |      |
+| 1/10 |      | 2         | TRB: Ch. 2-6                                            |      |
+| 1/14 | 2    | 3         | TRB: Ch. 7-9                                            | Yes  |
+| 1/17 |      | 4         | TRB: Ch. 10-14                                          |      |
+| 1/21 | 3    | 5         | TRB: Ch. 15-17                                          | Yes  |
+| 1/24 |      | 6         | TRB: Ch. 18-20                                          |      |
+| 1/28 | 4    | 7         | WOR: A Freestanding Rust Binary & A Minimal Rust Kernel | Yes  |
+| 1/31 |      | 8         | WOR: VGA Text Mode & Testing                            |      |
+| 2/4  | 5    | 9         | WOR: CPU Exceptions                                     | Yes  |
+| 2/7  |      | 10        | WOR: Double Faults                                      |      |
+| 2/11 | 6    | 11        | WOR: Hardware Interrupts                                | Yes  |
+| 2/14 |      | 12        | WOR: Introduction to Paging                             |      |
+| 2/18 |      |           | Reading break                                           |      |
+| 2/21 |      |           | Reading break                                           |      |
+| 2/25 | 7    | 13        | WOR: Paging Implementation                              |      |
+| 2/28 |      | 14        | WOR: Heap Allocation                                    |      |
+| 3/4  | 8    | 15        | WOR: Allocator Designs                                  | Yes  |
+| 3/7  |      | 16        | WOR: Async/Await                                        |      |
+| 3/11 | 9    | 17        | TBD                                                     | Yes  |
+| 3/14 |      | 18        | TBD                                                     |      |
+| 3/18 | 10   | 19        | TBD                                                     | Yes  |
+| 3/21 |      | 20        | TBD                                                     |      |
+| 3/25 | 11   | 21        | TBD                                                     | Yes  |
+| 3/28 |      | 22        | TBD                                                     |      |
+| 4/1  | 12   | 23        | TBD                                                     | Yes  |
+| 4/4  |      | 24        | TBD                                                     |      |
+| 4/8  | 13   | 25        | Review                                                  | Yes  |
 
 ## Grading
 
-Quizzes and submissions are the main graded components. There is no midterm but final is a
-possibility. This will be announced later.
+Quizzes and submissions are the main graded components. There is no midterm. We plan to have a final
+exam but this is also subject to change.
 
-The following is a possible grade distribution. This is also subject to change.
+The following is a possible grade distribution (subject to change).
 
-* Quizzes: 12 * 3% = 36%
-* Submissions: 23 * 2% = 46%
-* TBD: 18%
+* Quizzes: 10 * 4% = 40%
+* Submissions: 14 * 2% = 28%
+* Final + TBD: 32%
 
 ## Course Schedule and Location
 
