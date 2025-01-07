@@ -64,8 +64,8 @@ progresses.
 ## Grading
 
 We use [GitHub Classroom](https://classroom.github.com/) for all submissions. This assumes that you
-are familiar with [`Git`](https://github.com/git-guides) and [GitHub](https://github.com), and have
-a [GitHub account](https://github.com/join) already.
+are familiar with [Git](https://github.com/git-guides) and [GitHub](https://github.com), and have a
+[GitHub account](https://github.com/join) already.
 
 Quizzes and submissions are the main graded components. There is no midterm. We plan to have a final
 exam but this is also subject to change.
