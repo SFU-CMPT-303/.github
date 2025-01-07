@@ -31,7 +31,7 @@ deepen our understanding of basic OS concepts and UNIX's foundational design pri
 The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
 
-| Date | Week | Lecture # | Lecture                                                 | Quiz |
+| Date | Week | Lecture # | Lecture/Submission                                      | Quiz |
 |------|------|-----------|---------------------------------------------------------|------|
 | 1/7  | 1    | 1         | Intro & TRB Ch. 1                                       |      |
 | 1/10 |      | 2         | TRB: Ch. 2-6                                            |      |
@@ -76,7 +76,7 @@ The following is a possible grade distribution (subject to change).
 * Submissions: 14 * 2% = 28%
 * Final + TBD: 32%
 
-## Course Schedule and Location
+## Time and Location
 
 ### Lectures
 
