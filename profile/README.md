@@ -23,9 +23,10 @@ the previous week. A submission will be due one day before class. Students will 
 do as they follow the Rust Book and Philipp Oppermann's blog series. There will be other types of
 submissions, but this is TBD.
 
-Lectures will be a mix of review sessions for the submissions as well as study sessions for the
-source code of the Sixth Edition UNIX Operating System. We will use the historically significant
-[Lions' Commentary on UNIX 6th Edition](http://www.lemis.com/grog/Documentation/Lions/).
+Lectures will review the material from each submission and study the source code of the Sixth
+Edition UNIX Operating System. We will use the historically significant [Lions' Commentary on UNIX
+6th Edition](http://www.lemis.com/grog/Documentation/Lions/). Through these sessions, we aim to
+deepen our understanding of basic OS concepts and UNIX's foundational design principles.
 
 The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
