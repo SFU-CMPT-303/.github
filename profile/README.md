@@ -18,10 +18,14 @@ developing a minimal Rust kernel using Philipp Oppermann's excellent blog series
 in Rust](https://os.phil-opp.com/). The last part of the course is TBD as there are a few options
 and decisions will be made later depending on the progress of the first two parts.
 
-Each week will generally have one quiz & two submissions. A quiz will test the course materials from
-the prior week. A submission will have a deadline of a day before class. Students will submit the
-work they do as they follow the Rust Book and Philipp Oppermann's blog series. There will be other
-types of submissions, but this is TBD.
+Each week will generally have one quiz & two submissions. A quiz will test the course material from
+the previous week. A submission will be due one day before class. Students will submit the work they
+do as they follow the Rust Book and Philipp Oppermann's blog series. There will be other types of
+submissions, but this is TBD.
+
+Lectures will be a mix of review sessions for the submissions as well as study sessions for the
+source code of the Sixth Edition UNIX Operating System. We will use the historically significant
+[Lions' Commentary on UNIX 6th Edition](http://www.lemis.com/grog/Documentation/Lions/).
 
 The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
@@ -57,6 +61,10 @@ progresses.
 | 4/8  | 13   | 25        | Review                                                  | Yes  |
 
 ## Grading
+
+We use [GitHub Classroom](https://classroom.github.com/) for all submissions. This assumes that you
+are familiar with [`Git`](https://github.com/git-guides) and [GitHub](https://github.com), and have
+a [GitHub account](https://github.com/join) already.
 
 Quizzes and submissions are the main graded components. There is no midterm. We plan to have a final
 exam but this is also subject to change.
