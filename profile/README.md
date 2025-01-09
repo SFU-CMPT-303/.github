@@ -25,8 +25,8 @@ submissions, but this is TBD.
 
 Lectures will review the material from each submission and study the source code of the Sixth
 Edition UNIX Operating System. We will use the historically significant [Lions' Commentary on UNIX
-6th Edition](http://www.lemis.com/grog/Documentation/Lions/). Through these sessions, we aim to
-deepen our understanding of basic OS concepts and UNIX's foundational design principles.
+6th Edition](http://www.lemis.com/grog/Documentation/Lions/). The goal is to deepen the
+understanding of basic OS concepts and UNIX's foundational design principles.
 
 The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
