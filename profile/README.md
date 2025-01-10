@@ -95,7 +95,7 @@ The following is a possible grade distribution (subject to change).
 ### Office Hours
 
 * Steve Ko: TBD at TASC1 8019
-* Shishir Gopinath: TBD
+* Shishir Gopinath: Mon 2:30PM - 3:30PM at ASB 9812
 * Mohammad Omidvar: TBD
 
 ## Course Policies
