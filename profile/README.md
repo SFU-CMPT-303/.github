@@ -12,21 +12,21 @@ course.
 
 ## Course Structure and Schedule
 
-The first part of the course will focus on learning the Rust language itself using the famous [Rust
-Book](https://doc.rust-lang.org/book/title-page.html). The second part of the course will focus on
+The first part of the course focuses on learning the Rust language itself using the famous [Rust
+Book](https://doc.rust-lang.org/book/title-page.html). The second part of the course focuses on
 developing a minimal Rust kernel using Philipp Oppermann's excellent blog series on [Writing an OS
 in Rust](https://os.phil-opp.com/). The last part of the course is TBD as there are a few options
 and decisions will be made later depending on the progress of the first two parts.
 
-Each week will generally have one quiz & two submissions. A quiz will test the course material from
-the previous week. A submission will be due one day before class. Students will submit the work they
-do as they follow the Rust Book and Philipp Oppermann's blog series. There will be other types of
-submissions, but this is TBD.
+Each week generally has one quiz & two submissions. A quiz tests the course material from the
+previous week. A submission is due at midnight on the day of class. Students need to submit the work
+they do as they follow the Rust Book and Philipp Oppermann's blog series. There will be other types
+of submissions, but this is TBD.
 
-Lectures will review the material from each submission and study the source code of the Sixth
-Edition UNIX Operating System. We will use the historically significant [Lions' Commentary on UNIX
-6th Edition](http://www.lemis.com/grog/Documentation/Lions/). The goal is to deepen the
-understanding of basic OS concepts and UNIX's foundational design principles.
+Lectures review the material from each submission and study the source code of the Sixth Edition
+UNIX Operating System. We use the historically significant [Lions' Commentary on UNIX 6th
+Edition](http://www.lemis.com/grog/Documentation/Lions/). The goal is to deepen the understanding of
+basic OS concepts and UNIX's foundational design principles.
 
 The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
@@ -39,18 +39,18 @@ progresses.
 | 1/17 |      | 4         | TRB: Ch. 10-14 (S2)                                     |           |
 | 1/21 | 3    | 5         | TRB: Ch. 15-17 (S3)                                     | Ch. 7-14  |
 | 1/24 |      | 6         | TRB: Ch. 18-20 (S4)                                     |           |
-| 1/28 | 4    | 7         | WOR: A Freestanding Rust Binary & A Minimal Rust Kernel | Ch. 15-20 |
-| 1/31 |      | 8         | WOR: VGA Text Mode & Testing                            |           |
-| 2/4  | 5    | 9         | WOR: CPU Exceptions                                     | Yes       |
-| 2/7  |      | 10        | WOR: Double Faults                                      |           |
-| 2/11 | 6    | 11        | WOR: Hardware Interrupts                                | Yes       |
-| 2/14 |      | 12        | WOR: Introduction to Paging                             |           |
+| 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode | Ch. 15-20 |
+| 1/31 |      | 8         | WOR: Testing & CPU Exceptions                           |           |
+| 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts                | Yes       |
+| 2/7  |      | 10        | WOR: Introduction to Paging                             |           |
+| 2/11 | 6    | 11        | WOR: Paging Implementation                              | Yes       |
+| 2/14 |      | 12        | WOR: Heap Allocation & Allocator Designs                |           |
 | 2/18 |      |           | Reading break                                           |           |
 | 2/21 |      |           | Reading break                                           |           |
-| 2/25 | 7    | 13        | WOR: Paging Implementation                              |           |
-| 2/28 |      | 14        | WOR: Heap Allocation                                    |           |
-| 3/4  | 8    | 15        | WOR: Allocator Designs                                  | Yes       |
-| 3/7  |      | 16        | WOR: Async/Await                                        |           |
+| 2/25 | 7    | 13        | WOR: Async/Await                                        |           |
+| 2/28 |      | 14        | TBD                                                     |           |
+| 3/4  | 8    | 15        | TBD                                                     | Yes       |
+| 3/7  |      | 16        | TBD                                                     |           |
 | 3/11 | 9    | 17        | TBD                                                     | Yes       |
 | 3/14 |      | 18        | TBD                                                     |           |
 | 3/18 | 10   | 19        | TBD                                                     | Yes       |
