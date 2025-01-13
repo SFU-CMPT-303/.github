@@ -31,14 +31,14 @@ understanding of basic OS concepts and UNIX's foundational design principles.
 The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
 
-| Date | Week | Lecture # | Lecture/Submission                                      | Quiz      |
+| Date | Week | Lecture # | Lecture (Submission)                                    | Quiz      |
 |------|------|-----------|---------------------------------------------------------|-----------|
 | 1/7  | 1    | 1         | Intro & TRB Ch. 1                                       |           |
-| 1/10 |      | 2         | TRB: Ch. 2-6                                            |           |
-| 1/14 | 2    | 3         | TRB: Ch. 7-9                                            | Ch. 2-6   |
-| 1/17 |      | 4         | TRB: Ch. 10-14                                          |           |
-| 1/21 | 3    | 5         | TRB: Ch. 15-17                                          | Ch. 7-14  |
-| 1/24 |      | 6         | TRB: Ch. 18-20                                          |           |
+| 1/10 |      | 2         | TRB: Ch. 2-6 (S0)                                       |           |
+| 1/14 | 2    | 3         | TRB: Ch. 7-9 (S1)                                       | Ch. 2-6   |
+| 1/17 |      | 4         | TRB: Ch. 10-14 (S2)                                     |           |
+| 1/21 | 3    | 5         | TRB: Ch. 15-17 (S3)                                     | Ch. 7-14  |
+| 1/24 |      | 6         | TRB: Ch. 18-20 (S4)                                     |           |
 | 1/28 | 4    | 7         | WOR: A Freestanding Rust Binary & A Minimal Rust Kernel | Ch. 15-20 |
 | 1/31 |      | 8         | WOR: VGA Text Mode & Testing                            |           |
 | 2/4  | 5    | 9         | WOR: CPU Exceptions                                     | Yes       |
