@@ -96,7 +96,7 @@ The following is a possible grade distribution (subject to change).
 
 * Steve Ko: TBD at TASC1 8019
 * Shishir Gopinath: Mon 2:30PM - 3:30PM at ASB 9812
-* Mohammad Omidvar: TBD
+* Mohammad Omidvar: Wed 09:00AM - 10:00AM at ASB 9812
 
 ## Course Policies
 
