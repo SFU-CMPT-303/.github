@@ -36,10 +36,10 @@ progresses.
 | 1/7  | 1    | 1         | Intro & TRB Ch. 1                                       |           |
 | 1/10 |      | 2         | TRB: Ch. 2-6 (S0)                                       |           |
 | 1/14 | 2    | 3         | TRB: Ch. 7-9 (S1)                                       | Ch. 2-6   |
-| 1/17 |      | 4         | TRB: Ch. 10-14 (S2)                                     |           |
-| 1/21 | 3    | 5         | TRB: Ch. 15-17 (S3)                                     | Ch. 7-14  |
-| 1/24 |      | 6         | TRB: Ch. 18-20 (S4)                                     |           |
-| 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode | Ch. 15-20 |
+| 1/17 |      | 4         | TRB: Ch. 10-13 (S2)                                     |           |
+| 1/21 | 3    | 5         | TRB: Ch. 14-16 (S3)                                     | Ch. 7-13  |
+| 1/24 |      | 6         | TRB: Ch. 17-20 (S4)                                     |           |
+| 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode | Ch. 14-20 |
 | 1/31 |      | 8         | WOR: Testing & CPU Exceptions                           |           |
 | 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts                | Yes       |
 | 2/7  |      | 10        | WOR: Introduction to Paging                             |           |
