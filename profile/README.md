@@ -41,25 +41,25 @@ progresses.
 | 1/24 |      | 6         | TRB: Ch. 17-20 (S4)                                     |           |
 | 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode | Ch. 14-20 |
 | 1/31 |      | 8         | WOR: Testing & CPU Exceptions                           |           |
-| 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts                | Yes       |
-| 2/7  |      | 10        | WOR: Introduction to Paging                             |           |
-| 2/11 | 6    | 11        | WOR: Paging Implementation                              | Yes       |
-| 2/14 |      | 12        | WOR: Heap Allocation & Allocator Designs                |           |
+| 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts                | Past week |
+| 2/7  |      | 10        | WOR: Introduction to Paging & Paging Implementation     |           |
+| 2/11 | 6    | 11        | WOR: Heap Allocation & Allocator Designs                | Past week |
+| 2/14 |      | 12        | WOR: Async/Await                                        |           |
 | 2/18 |      |           | Reading break                                           |           |
 | 2/21 |      |           | Reading break                                           |           |
-| 2/25 | 7    | 13        | WOR: Async/Await                                        |           |
+| 2/25 | 7    | 13        | TBD                                                     |           |
 | 2/28 |      | 14        | TBD                                                     |           |
-| 3/4  | 8    | 15        | TBD                                                     | Yes       |
+| 3/4  | 8    | 15        | TBD                                                     | Past week |
 | 3/7  |      | 16        | TBD                                                     |           |
-| 3/11 | 9    | 17        | TBD                                                     | Yes       |
+| 3/11 | 9    | 17        | TBD                                                     | Past week |
 | 3/14 |      | 18        | TBD                                                     |           |
-| 3/18 | 10   | 19        | TBD                                                     | Yes       |
+| 3/18 | 10   | 19        | TBD                                                     | Past week |
 | 3/21 |      | 20        | TBD                                                     |           |
-| 3/25 | 11   | 21        | TBD                                                     | Yes       |
+| 3/25 | 11   | 21        | TBD                                                     | Past week |
 | 3/28 |      | 22        | TBD                                                     |           |
-| 4/1  | 12   | 23        | TBD                                                     | Yes       |
+| 4/1  | 12   | 23        | TBD                                                     | Past week |
 | 4/4  |      | 24        | TBD                                                     |           |
-| 4/8  | 13   | 25        | Review                                                  | Yes       |
+| 4/8  | 13   | 25        | Review                                                  | Past week |
 
 ## Grading
 
