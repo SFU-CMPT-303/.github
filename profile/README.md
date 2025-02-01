@@ -39,12 +39,12 @@ progresses.
 | 1/17 |      | 4         | TRB: Ch. 10-13 (S2)                                     |           |
 | 1/21 | 3    | 5         | TRB: Ch. 14-16 (S3)                                     | Ch. 7-13  |
 | 1/24 |      | 6         | TRB: Ch. 17-20 (S4)                                     |           |
-| 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode | Ch. 14-20 |
-| 1/31 |      | 8         | WOR: Testing & CPU Exceptions                           |           |
-| 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts                | Past week |
-| 2/7  |      | 10        | WOR: Introduction to Paging & Paging Implementation     |           |
-| 2/11 | 6    | 11        | WOR: Heap Allocation & Allocator Designs                | Past week |
-| 2/14 |      | 12        | WOR: Async/Await                                        |           |
+| 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode (S5) | Ch. 14-20 |
+| 1/31 |      | 8         | WOR: Testing & CPU Exceptions (S6)                      |           |
+| 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts (S7)           | Past week |
+| 2/7  |      | 10        | WOR: Introduction to Paging & Paging Implementation (S8)|           |
+| 2/11 | 6    | 11        | WOR: Heap Allocation & Allocator Designs (S9)           | Past week |
+| 2/14 |      | 12        | WOR: Async/Await (S10)                                  |           |
 | 2/18 |      |           | Reading break                                           |           |
 | 2/21 |      |           | Reading break                                           |           |
 | 2/25 | 7    | 13        | TBD                                                     |           |
