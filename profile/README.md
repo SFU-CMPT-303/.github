@@ -31,35 +31,35 @@ basic OS concepts and UNIX's foundational design principles.
 The following is a preliminary schedule. It is likely that this will change as the semester
 progresses.
 
-| Date | Week | Lecture # | Lecture (Submission)                                    | Quiz      |
-|------|------|-----------|---------------------------------------------------------|-----------|
-| 1/7  | 1    | 1         | Intro & TRB Ch. 1                                       |           |
-| 1/10 |      | 2         | TRB: Ch. 2-6 (S0)                                       |           |
-| 1/14 | 2    | 3         | TRB: Ch. 7-9 (S1)                                       | Ch. 2-6   |
-| 1/17 |      | 4         | TRB: Ch. 10-13 (S2)                                     |           |
-| 1/21 | 3    | 5         | TRB: Ch. 14-16 (S3)                                     | Ch. 7-13  |
-| 1/24 |      | 6         | TRB: Ch. 17-20 (S4)                                     |           |
-| 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode (S5) | Ch. 14-20 |
-| 1/31 |      | 8         | WOR: Testing & CPU Exceptions (S6)                      |           |
-| 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts (S7)           | Past week |
-| 2/7  |      | 10        | WOR: Introduction to Paging & Paging Implementation (S8)|           |
-| 2/11 | 6    | 11        | WOR: Heap Allocation & Allocator Designs (S9)           | Past week |
-| 2/14 |      | 12        | WOR: Async/Await (S10)                                  |           |
-| 2/18 |      |           | Reading break                                           |           |
-| 2/21 |      |           | Reading break                                           |           |
-| 2/25 | 7    | 13        | TBD                                                     |           |
-| 2/28 |      | 14        | TBD                                                     |           |
-| 3/4  | 8    | 15        | TBD                                                     | Past week |
-| 3/7  |      | 16        | TBD                                                     |           |
-| 3/11 | 9    | 17        | TBD                                                     | Past week |
-| 3/14 |      | 18        | TBD                                                     |           |
-| 3/18 | 10   | 19        | TBD                                                     | Past week |
-| 3/21 |      | 20        | TBD                                                     |           |
-| 3/25 | 11   | 21        | TBD                                                     | Past week |
-| 3/28 |      | 22        | TBD                                                     |           |
-| 4/1  | 12   | 23        | TBD                                                     | Past week |
-| 4/4  |      | 24        | TBD                                                     |           |
-| 4/8  | 13   | 25        | Review                                                  | Past week |
+| Date | Week | Lecture # | Lecture (Submission)                                  | Quiz           |
+|------|------|-----------|-------------------------------------------------------|----------------|
+| 1/7  | 1    | 1         | Intro & TRB Ch. 1                                     |                |
+| 1/10 |      | 2         | TRB: Ch. 2-6 (S0)                                     |                |
+| 1/14 | 2    | 3         | TRB: Ch. 7-9 (S1)                                     | Ch. 2-6 (Q0)   |
+| 1/17 |      | 4         | TRB: Ch. 10-13 (S2)                                   |                |
+| 1/21 | 3    | 5         | TRB: Ch. 14-16 (S3)                                   | Ch. 7-13 (Q1)  |
+| 1/24 |      | 6         | TRB: Ch. 17-20 (S4)                                   |                |
+| 1/28 | 4 | 7 | WOR: A Freestanding Rust Binary, A Minimal Rust Kernel, & VGA Text Mode (S5) | Ch. 14-20 (Q2) |
+| 1/31 |      | 8         | WOR: Testing & CPU Exceptions (S6)                    |                |
+| 2/4  | 5    | 9         | WOR: Double Faults & Hardware Interrupts (S7)         | Past week (Q3) |
+| 2/7  |      | 10        | WOR: Introduction to Paging & Paging Implementation (S8)|              |
+| 2/11 | 6    | 11        | WOR: Heap Allocation & Allocator Designs (S9)         | Past week (Q4) |
+| 2/14 |      | 12        | WOR: Async/Await (S10)                                |                |
+| 2/18 |      |           | Reading break                                         |                |
+| 2/21 |      |           | Reading break                                         |                |
+| 2/25 | 7    | 13        | TBD                                                   |                |
+| 2/28 |      | 14        | TBD                                                   |                |
+| 3/4  | 8    | 15        | TBD                                                   | Past week (Q5) |
+| 3/7  |      | 16        | TBD                                                   |                |
+| 3/11 | 9    | 17        | TBD                                                   | Past week (Q6) |
+| 3/14 |      | 18        | TBD                                                   |                |
+| 3/18 | 10   | 19        | TBD                                                   | Past week (Q7) |
+| 3/21 |      | 20        | TBD                                                   |                |
+| 3/25 | 11   | 21        | TBD                                                   | Past week (Q8) |
+| 3/28 |      | 22        | TBD                                                   |                |
+| 4/1  | 12   | 23        | TBD                                                   | Past week (Q9) |
+| 4/4  |      | 24        | TBD                                                   |                |
+| 4/8  | 13   | 25        | Review                                                | Past week (Q10)|
 
 ## Grading
 
