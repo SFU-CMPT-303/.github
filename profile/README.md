@@ -73,7 +73,8 @@ exam but this is also subject to change.
 The following is a possible grade distribution (subject to change).
 
 * Quizzes: 10 * 4% = 40%
-* Submissions: 11 * 2% + 3 * 6% = 40%
+* S0 - S10: 11 * 2% = 22%
+* S11 - S13: 3 * 6% = 18%
 * Final: 20%
 
 ## Time and Location
