@@ -50,15 +50,15 @@ progresses.
 | 2/25 | 7    | 13        | TBD                                                   |                |
 | 2/28 |      | 14        | TBD                                                   |                |
 | 3/4  | 8    | 15        | TBD                                                   | Past week (Q5) |
-| 3/7  |      | 16        | TBD                                                   |                |
+| 3/7  |      | 16        | TBD (S11)                                             |                |
 | 3/11 | 9    | 17        | TBD                                                   | Past week (Q6) |
 | 3/14 |      | 18        | TBD                                                   |                |
 | 3/18 | 10   | 19        | TBD                                                   | Past week (Q7) |
-| 3/21 |      | 20        | TBD                                                   |                |
+| 3/21 |      | 20        | TBD (S12)                                             |                |
 | 3/25 | 11   | 21        | TBD                                                   | Past week (Q8) |
 | 3/28 |      | 22        | TBD                                                   |                |
 | 4/1  | 12   | 23        | TBD                                                   | Past week (Q9) |
-| 4/4  |      | 24        | TBD                                                   |                |
+| 4/4  |      | 24        | TBD (S13)                                             |                |
 | 4/8  | 13   | 25        | Review                                                | Past week (Q10)|
 
 ## Grading
@@ -73,8 +73,8 @@ exam but this is also subject to change.
 The following is a possible grade distribution (subject to change).
 
 * Quizzes: 10 * 4% = 40%
-* Submissions: 14 * 2% = 28%
-* Final + TBD: 32%
+* Submissions: 11 * 2% + 3 * 6% = 40%
+* Final: 20%
 
 ## Time and Location
 
