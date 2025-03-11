@@ -53,7 +53,7 @@ progresses.
 | 2/25 | 7    | 13        | Context Switching & CPU Scheduling                    |                |
 | 2/28 |      | 14        | CPU Scheduling                                        |                |
 | 3/4  | 8    | 15        | Page Replacement Algorithms                           | Past week (Q5) |
-| 3/7  |      | 16        | TBD                                                   |                |
+| 3/7  |      | 16        | Page Replacement Algorithms & Privilege Levels        |                |
 | 3/11 | 9    | 17        | TBD                                                   | Past week (Q6) |
 | 3/14 |      | 18        | TBD (S11: 3/13)                                       |                |
 | 3/18 | 10   | 19        | TBD                                                   | Past week (Q7) |
