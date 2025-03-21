@@ -56,8 +56,8 @@ progresses.
 | 3/7  |      | 16        | Page Replacement Algorithms & Privilege Levels        |                |
 | 3/11 | 9    | 17        | Privilege Levels & Storage                            | Past week (Q6) |
 | 3/14 |      | 18        | Storage & Files (S11: 3/13)                           |                |
-| 3/18 | 10   | 19        | TBD                                                   | Past week (Q7) |
-| 3/21 |      | 20        | TBD                                                   |                |
+| 3/18 | 10   | 19        | File Systems                                          | Past week (Q7) |
+| 3/21 |      | 20        | File Systems                                          |                |
 | 3/25 | 11   | 21        | TBD                                                   | Past week (Q8) |
 | 3/28 |      | 22        | TBD (S12: 3/27)                                       |                |
 | 4/1  | 12   | 23        | TBD                                                   | Past week (Q9) |
