@@ -58,8 +58,8 @@ progresses.
 | 3/14 |      | 18        | Storage & Files (S11: 3/13)                           |                |
 | 3/18 | 10   | 19        | File Systems                                          | Past week (Q7) |
 | 3/21 |      | 20        | File Systems                                          |                |
-| 3/25 | 11   | 21        | TBD                                                   | Past week (Q8) |
-| 3/28 |      | 22        | TBD (S12: 3/27)                                       |                |
+| 3/25 | 11   | 21        | Crash Consistency                                     | Past week (Q8) |
+| 3/28 |      | 22        | RAID (S12: 3/27)                                      |                |
 | 4/1  | 12   | 23        | TBD                                                   | Past week (Q9) |
 | 4/4  |      | 24        | TBD                                                   |                |
 | 4/8  | 13   | 25        | Review (S13: 4/10)                                    | Past week (Q10)|
